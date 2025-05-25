@@ -1,14 +1,16 @@
-[
-  {
-    "user_name": "AVINASH",
-    "password": "AVINASH",
-    "expiry_date": "2030-01-01 00:00:00"
-  }
-]
-[
-  {
-    "user_name": "DEVILRAJA",
-    "password": "DEVILRAJA",
-    "expiry_date": "2025-06-25 00:00:00"
-  }
-]
+{
+  "users1": [
+    {
+      "user_name": "AVINASH",
+      "password": "AVINASH",
+      "expiry_date": "2030-01-01 00:00:00"
+    }
+  ],
+  "users2": [
+    {
+      "user_name": "DEVILRAJA",
+      "password": "DEVILRAJA",
+      "expiry_date": "2025-06-25 00:00:00"
+    }
+  ]
+}
