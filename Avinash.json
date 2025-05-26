@@ -1,12 +1,13 @@
-[
-  {
+[  {
     "user_name": "AVINASH",
     "password": "AVINASH",
-    "expiry_date": "2030-01-01 00:00:00"
+    "expiry_date": "2030-01-01 00:00:00",
+    "fingerprint_id": "6aefcd33-061c-461c-8eab-cfd98d5dd6b4"
   },
   {
     "user_name": "DEVILRAJA",
     "password": "DEVILRAJA",
-    "expiry_date": "2025-06-25 00:00:00"
+    "expiry_date": "2025-06-25 00:00:00",
+    "fingerprint_id": "paste_devilraja_device_fingerprint_id_here"
   }
 ]
